@@ -1,0 +1,7 @@
+.vscode
+.directory
+config.yaml
+Gemfile.lock
+sparks.db
+nohup.out
+*.code-workspace
